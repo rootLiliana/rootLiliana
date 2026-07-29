@@ -2,7 +2,7 @@
 
 Backend Developer | Java & Spring Boot
 Full Stack Developer | React, Angular & TypeScript
-Teaching Assistant | Python & Data Analysis
+Teaching Expert | Python & Data Analysis
 
 Building scalable applications, APIs, microservices and cloud solutions.
 
